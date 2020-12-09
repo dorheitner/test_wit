@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-## `components`
+## Components
 
 ### `ArtistInfo`
 
@@ -36,7 +36,7 @@ Handle Map of the event location
 
 Handle list of favories events that the user like
 
-## `What feature I can add to this project`
+## What feature I can add to this project
 
 1. Add event location map. (Done)
 2. Enable to remove like for event component and from favories component.(Done)
