@@ -36,7 +36,7 @@ Handle Map of the event location
 
 Handle list of favories events that the user like
 
-## What feature I can add to this project
+## What features I can add to this project
 
 1. Add event location map. (Done)
 2. Enable to remove like for event component and from favories component.(Done)
