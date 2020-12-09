@@ -43,3 +43,5 @@ Handle list of favories events that the user like
 3. Add a example track song of the artist or embeded Spotify channel.
 4. Add autocomplite on search typing.
 5. Add social media links.
+
+note: A lot of artist don't have events on this period. I was tested this app with Lady Gaga events.
